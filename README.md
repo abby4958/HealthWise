@@ -1,4 +1,4 @@
-# MedMind: Intelligent Chatbot for Medical Literature Insights
+# HealthWise: Intelligent Chatbot for Medical Literature Insights
 **Overview:**
 Developed a cutting-edge chatbot that enables users to interact with medical literature in a conversational manner, leveraging the power of Retrieval Augmented Generation (RAG) to provide accurate and relevant responses.
 
